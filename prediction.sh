@@ -1,0 +1,1 @@
+curl -X POST -F "image=@{image_path_here}.jpg" http://localhost:5000/predict
